@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="OnCo六大栏目结构示意：开始查询、癌种与治疗、新闻与证据、机构与人物、与癌症共处、学习与贡献，围绕一页一对象的知识图谱">
+<rect width="1200" height="420" fill="#f6f2ea"/>
+<g font-family="PingFang SC, Noto Sans CJK SC, Helvetica, Arial, sans-serif">
+<circle cx="600" cy="210" r="92" fill="#1f5f63"/><text x="600" y="203" text-anchor="middle" font-size="24" font-weight="700" fill="#f6f2ea">一页一对象</text><text x="600" y="232" text-anchor="middle" font-size="14" fill="#f6f2ea" fill-opacity="0.85">One page per object</text>
+<path d="M300,95 C385.0,95 385.0,210 508,210" fill="none" stroke="#1f5f63" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="40" y="57" width="260" height="76" rx="14" fill="#fffdf8" stroke="#1f5f63" stroke-width="2"/>
+<rect x="40" y="57" width="10" height="76" rx="4" fill="#1f5f63"/>
+<text x="65" y="89" font-size="21" font-weight="700" fill="#22313a">开始查询</text><text x="65" y="115" font-size="14" fill="#5b6770">Start here</text>
+<text x="282" y="103" text-anchor="end" font-size="22" font-weight="700" fill="#1f5f63">21</text>
+<path d="M300,210 C385.0,210 385.0,210 508,210" fill="none" stroke="#2f7f7a" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="40" y="172" width="260" height="76" rx="14" fill="#fffdf8" stroke="#2f7f7a" stroke-width="2"/>
+<rect x="40" y="172" width="10" height="76" rx="4" fill="#2f7f7a"/>
+<text x="65" y="204" font-size="21" font-weight="700" fill="#22313a">癌种与治疗</text><text x="65" y="230" font-size="14" fill="#5b6770">Cancers &amp; treatments</text>
+<text x="282" y="218" text-anchor="end" font-size="22" font-weight="700" fill="#2f7f7a">34</text>
+<path d="M300,325 C385.0,325 385.0,210 508,210" fill="none" stroke="#c8644a" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="40" y="287" width="260" height="76" rx="14" fill="#fffdf8" stroke="#c8644a" stroke-width="2"/>
+<rect x="40" y="287" width="10" height="76" rx="4" fill="#c8644a"/>
+<text x="65" y="319" font-size="21" font-weight="700" fill="#22313a">新闻与证据</text><text x="65" y="345" font-size="14" fill="#5b6770">News &amp; evidence</text>
+<text x="282" y="333" text-anchor="end" font-size="22" font-weight="700" fill="#c8644a">43</text>
+<path d="M900,95 C815.0,95 815.0,210 692,210" fill="none" stroke="#d99a3e" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="900" y="57" width="260" height="76" rx="14" fill="#fffdf8" stroke="#d99a3e" stroke-width="2"/>
+<rect x="900" y="57" width="10" height="76" rx="4" fill="#d99a3e"/>
+<text x="925" y="89" font-size="21" font-weight="700" fill="#22313a">机构与人物</text><text x="925" y="115" font-size="14" fill="#5b6770">Institutions &amp; people</text>
+<text x="1142" y="103" text-anchor="end" font-size="22" font-weight="700" fill="#d99a3e">21</text>
+<path d="M900,210 C815.0,210 815.0,210 692,210" fill="none" stroke="#5a6f8f" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="900" y="172" width="260" height="76" rx="14" fill="#fffdf8" stroke="#5a6f8f" stroke-width="2"/>
+<rect x="900" y="172" width="10" height="76" rx="4" fill="#5a6f8f"/>
+<text x="925" y="204" font-size="21" font-weight="700" fill="#22313a">与癌症共处</text><text x="925" y="230" font-size="14" fill="#5b6770">Living with cancer</text>
+<text x="1142" y="218" text-anchor="end" font-size="22" font-weight="700" fill="#5a6f8f">16</text>
+<path d="M900,325 C815.0,325 815.0,210 692,210" fill="none" stroke="#7c9a6d" stroke-width="2" stroke-opacity="0.6"/>
+<rect x="900" y="287" width="260" height="76" rx="14" fill="#fffdf8" stroke="#7c9a6d" stroke-width="2"/>
+<rect x="900" y="287" width="10" height="76" rx="4" fill="#7c9a6d"/>
+<text x="925" y="319" font-size="21" font-weight="700" fill="#22313a">学习与贡献</text><text x="925" y="345" font-size="14" fill="#5b6770">Learn &amp; contribute</text>
+<text x="1142" y="333" text-anchor="end" font-size="22" font-weight="700" fill="#7c9a6d">20</text>
+<text x="600" y="395" text-anchor="middle" font-size="14" fill="#7a7f80">右侧数字为本仓库栏目地图中的子页面数（2026-10-19 核对）</text></g></svg>
