@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <code>六大栏目中文地图</code> · <code>静态JSON接口</code> · <code>可运行检索示例</code> · <code>引用与许可边界</code>
+  <code>六大栏目中文地图</code> · <code>六条阅读路径</code> · <code>静态JSON接口</code> · <code>引用与许可边界</code>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 
 ## 先用起来 · Quick start
 
-**只想浏览：** 直接打开 [onco.cc](https://onco.cc/)，按 [栏目地图](文档/栏目地图v1.0.md) 找到中文对应的入口。网站提供八种界面语言，可用页眉的 Aa 按钮切换。
+**只想浏览：** 直接打开 [onco.cc](https://onco.cc/)，按 [阅读路径](文档/阅读路径v1.0.md) 一站站走，或在 [栏目地图](文档/栏目地图v1.0.md) 里找中文对应的入口。网站提供八种界面语言，可用页眉的 Aa 按钮切换。
 
 **想用数据：** OnCo提供无需密钥的静态JSON接口。本仓库的示例只依赖Python 3标准库：
 
@@ -137,6 +137,8 @@ MCP服务器与命令行工具需从官方仓库源码构建（`npm run mcp:buil
 
 | 你想了解什么 | 从这里进入 |
 | --- | --- |
+| 按问题走的路线 | [阅读路径](文档/阅读路径v1.0.md) |
+| 小白也能看懂的图文课 | [团子AI学院 S11：OnCo入门](https://tuanziding.github.io/tuanzi-ai-academy/lessons/onco-guidev1.0.html) |
 | 全部栏目与链接 | [栏目地图](文档/栏目地图v1.0.md) |
 | API、CLI与MCP | [数据接口说明](文档/数据接口v1.0.md) |
 | English overview | [English homepage](文档/英文说明v1.0.md) |
